@@ -2,7 +2,7 @@
 
 컴퓨터 과학 핵심 개념 정리 노트
 
-## 📚 목차
+## 목차
 
 ### [Operating System (운영체제)](./operating-system/)
 - Deadlock (교착 상태)
@@ -18,24 +18,36 @@
 - [전체 목차 보기 →](./database/)
 
 ### [Network (네트워크)](./network/)
-- 내용 추가 예정
+- 브라우저 주소 입력 시 동작 과정
+- OSI 7계층 vs TCP/IP 4계층
+- TCP vs UDP
+- HTTP vs HTTPS
+- DNS, ARP, MAC Address
 - [전체 목차 보기 →](./network/)
+
+### [Web Development (웹 개발)](./web-development/)
+- CSR vs SSR
+- RESTful API
+- Over-fetching vs Under-fetching
+- 인증 방식 (쿠키/세션 vs JWT)
+- [전체 목차 보기 →](./web-development/)
+
+### [System Design (시스템 설계)](./system-design/)
+- 로드 밸런싱
+- 트래픽 폭주 대응
+- 웹 서버 vs 웹 애플리케이션 서버
+- Proxy (Forward vs Reverse)
+- [전체 목차 보기 →](./system-design/)
 
 ---
 
-## 🎯 학습 목표
+## 학습 목표
 
 이 저장소는 컴퓨터 과학의 핵심 개념을 체계적으로 정리하고, 빠르게 참조할 수 있도록 구성되었습니다.
 
-### 주요 특징
-- **명확한 구조**: 주제별로 폴더 구분
-- **빠른 검색**: 목차와 링크를 통한 쉬운 네비게이션
-- **핵심 정리**: 중요한 개념만 간결하게 정리
-- **비교 표**: 개념 간 차이를 한눈에 파악
-
 ---
 
-## 📖 사용 방법
+## 사용 방법
 
 1. 각 주제 폴더의 `README.md`에서 해당 주제의 전체 목차 확인
 2. 원하는 섹션으로 바로 이동
@@ -43,19 +55,22 @@
 
 ---
 
-## 📝 추가 예정
+## 추가 예정
 
 - [ ] Database (데이터베이스)
-- [ ] Network (네트워크)
+- [x] Network (네트워크)
+- [x] Web Development (웹 개발)
+- [x] System Design (시스템 설계)
 - [ ] Algorithm (알고리즘)
 - [ ] Data Structure (자료구조)
-- [ ] System Design (시스템 설계)
 
 ---
 
-## 🔗 빠른 링크
+## 빠른 링크
 
 - [Operating System](./operating-system/)
 - [Database](./database/)
 - [Network](./network/)
+- [Web Development](./web-development/)
+- [System Design](./system-design/)
 
