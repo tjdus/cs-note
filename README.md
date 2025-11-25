@@ -2,6 +2,9 @@
 
 컴퓨터 과학 핵심 개념 정리 노트
 
+> 스터디 그룹에서 함께 정리하는 CS 학습 자료  
+> 기간: 2025년 10월 ~
+
 ## 목차
 
 ### [Operating System (운영체제)](./operating-system/)
@@ -73,4 +76,12 @@
 - [Network](./network/)
 - [Web Development](./web-development/)
 - [System Design](./system-design/)
+
+---
+
+## Contributors
+
+이 저장소는 스터디 그룹의 모든 구성원이 함께 만들어갑니다.
+
+<!-- Contributors 목록은 GitHub에서 자동으로 생성되거나 수동으로 추가할 수 있습니다 -->
 
